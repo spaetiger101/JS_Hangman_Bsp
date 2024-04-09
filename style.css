@@ -1,0 +1,9 @@
+#wortAnzeige {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#buchstabenButtons button {
+    margin: 5px;
+    padding: 10px;
+}
